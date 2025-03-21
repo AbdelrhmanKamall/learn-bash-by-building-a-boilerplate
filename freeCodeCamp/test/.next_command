@@ -314,3 +314,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 more package.json
 clear
+ls --color=auto
