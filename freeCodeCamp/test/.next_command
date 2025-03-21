@@ -404,3 +404,5 @@ clear
 cd has
 pwd
 ls --color=auto -l
+ls --color=auto -lh
+more README.md
