@@ -402,3 +402,5 @@ ls --color=auto
 ls --color=auto -l
 clear
 cd has
+pwd
+ls --color=auto -l
