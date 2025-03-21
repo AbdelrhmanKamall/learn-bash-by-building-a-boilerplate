@@ -241,3 +241,4 @@ ls --color=auto
 cd test
 clear
 pwd
+ls --color=auto
