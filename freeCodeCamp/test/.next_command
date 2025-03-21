@@ -317,3 +317,8 @@ clear
 ls --color=auto
 ls --color=auto
 cd node_modules/
+git add .
+git commint -m "save my progress"
+git commit -m "save my progress"
+git puush
+git push
