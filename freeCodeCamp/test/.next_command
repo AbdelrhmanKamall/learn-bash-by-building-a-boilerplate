@@ -242,3 +242,5 @@ cd test
 clear
 pwd
 ls --color=auto
+ls --color=auto -l
+cd ..
