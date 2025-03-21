@@ -235,3 +235,7 @@ cd freeCodeCamp/
 pwd
 ls --color=auto
 git add .
+git commit -m "save my progress"
+git push
+ls --color=auto
+cd test
